@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: url(CASTAWAY_white.svg) no-repeat top;
+  background: url(CASTAWAY_white.svg) no-repeat center;
   background-size: contain;
   color: #fff;
   background-color: #333;
@@ -49,7 +49,7 @@ body {
 }
 .site-wrapper-inner {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: bottom;
 }
 .cover-container {
   margin-right: auto;
